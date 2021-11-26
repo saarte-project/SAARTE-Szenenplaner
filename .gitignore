@@ -1,0 +1,69 @@
+# .gitignore file for SAARTE Szenenplaner project
+
+# SAARTE Szenenplaner specific
+SAARTE_buildTime.*
+
+
+# Doxygen generatedfiles
+doc/html
+doc/doxygen_sqlite3.db
+Doc/html
+Doc/doxygen_sqlite3.db
+
+
+# ===================== #
+# Unity generated files #
+# ===================== #
+
+# The "App" directory" is where we build! So we do not need to commit anything here
+App/ 
+
+# Other Unity related stuff
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+*/[Bb]uilds/
+*/[Ll]ibrary/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+*/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+UWP/
+UnityPackageManager/
+project.lock.json
+
+# =========================================== #
+# Visual Studio / MonoDevelop generated files #
+# =========================================== #
+
+[Ee]xported[Oo]bj/
+.vs/
+*/*.userprefs
+*/*.csproj
+*.csproj
+git *.csproj
+*/*.pidb
+*.pidb.meta
+*/*.suo
+*.suo
+*/*.sln*
+*.sln*
+*/*.user
+*/*.unityproj
+*/*.booproj
+.consulo/
+*/*.tmp
+*.tmp
+*/*.svd
+*~
+
+# ============ #
+# OS generated #
+# ============ #
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini

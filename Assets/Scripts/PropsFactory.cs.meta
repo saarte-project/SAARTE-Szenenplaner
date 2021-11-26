@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2498a981b30c1cf45a1c32ccba197ca7
+timeCreated: 1536331053
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonWithChildPrefab: {fileID: 1114596816430694, guid: 253e98e4eb2b5b642aa7023a221a08ae,
+      type: 2}
+  - buttonPrefab: {fileID: 1593914748385348, guid: 890588bfc229ceb439754c17308466a3,
+      type: 2}
+  - objScalingScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

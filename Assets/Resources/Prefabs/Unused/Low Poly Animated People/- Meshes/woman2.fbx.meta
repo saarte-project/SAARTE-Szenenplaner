@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 3baeee70e9c2fd445a7b5d337286c033
+timeCreated: 1541167185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: GenericRig_Head
+    100004: GenericRig_Head_end
+    100006: GenericRig_Hips
+    100008: GenericRig_LeftArm
+    100010: GenericRig_LeftFoot
+    100012: GenericRig_LeftForeArm
+    100014: GenericRig_LeftHand
+    100016: GenericRig_LeftHand_end
+    100018: GenericRig_LeftLeg
+    100020: GenericRig_LeftShoulder
+    100022: GenericRig_LeftToeBase
+    100024: GenericRig_LeftToeBase_end
+    100026: GenericRig_LeftUpLeg
+    100028: GenericRig_Neck
+    100030: GenericRig_Reference
+    100032: GenericRig_RightArm
+    100034: GenericRig_RightFoot
+    100036: GenericRig_RightForeArm
+    100038: GenericRig_RightHand
+    100040: GenericRig_RightHand_end
+    100042: GenericRig_RightLeg
+    100044: GenericRig_RightShoulder
+    100046: GenericRig_RightToeBase
+    100048: GenericRig_RightToeBase_end
+    100050: GenericRig_RightUpLeg
+    100052: GenericRig_Spine
+    100054: GenericRig_Spine1
+    100056: GenericRig_Spine2
+    100058: Lamp
+    100060: woman02
+    100062: //RootNode
+    400000: Camera
+    400002: GenericRig_Head
+    400004: GenericRig_Head_end
+    400006: GenericRig_Hips
+    400008: GenericRig_LeftArm
+    400010: GenericRig_LeftFoot
+    400012: GenericRig_LeftForeArm
+    400014: GenericRig_LeftHand
+    400016: GenericRig_LeftHand_end
+    400018: GenericRig_LeftLeg
+    400020: GenericRig_LeftShoulder
+    400022: GenericRig_LeftToeBase
+    400024: GenericRig_LeftToeBase_end
+    400026: GenericRig_LeftUpLeg
+    400028: GenericRig_Neck
+    400030: GenericRig_Reference
+    400032: GenericRig_RightArm
+    400034: GenericRig_RightFoot
+    400036: GenericRig_RightForeArm
+    400038: GenericRig_RightHand
+    400040: GenericRig_RightHand_end
+    400042: GenericRig_RightLeg
+    400044: GenericRig_RightShoulder
+    400046: GenericRig_RightToeBase
+    400048: GenericRig_RightToeBase_end
+    400050: GenericRig_RightUpLeg
+    400052: GenericRig_Spine
+    400054: GenericRig_Spine1
+    400056: GenericRig_Spine2
+    400058: Lamp
+    400060: woman02
+    400062: //RootNode
+    2000000: Camera
+    2100000: GREY1
+    4300000: woman02
+    7400000: GenericRig_Reference|GenericRig_Reference|Take 001|BaseLayer
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: woman02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
